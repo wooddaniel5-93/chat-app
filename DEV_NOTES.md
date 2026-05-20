@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-20
 - Updated dependencies to latest stable versions
 - Verified compatibility with latest runtime version
+
+## 2026-05-20
+- Updated .gitignore to exclude build artifacts
